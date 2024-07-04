@@ -1,0 +1,5 @@
+@InsOrUpdUsr_HostAddress = http://localhost:5105
+GET {{InsOrUpdUsr_HostAddress}}
+Accept: application/json
+
+###
