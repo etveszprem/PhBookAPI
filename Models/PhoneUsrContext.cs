@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace InsOrUpdUsr.Models
 {
+    //TODO XML leírokat még létre kell hozni, de a lényeg már kész.
     public class PhoneUsrContext : DbContext
     {
         public PhoneUsrContext(DbContextOptions<PhoneUsrContext> options)
